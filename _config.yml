@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jiazhi's Blog
+title: 进击的前端
 subtitle: To Be A Better Developer!
 author: Jiazhi Wong
 language:
@@ -19,7 +19,7 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: Jiazhi's Blog
+SEOTitle: 进击的前端
 header-img: img/home-bg.jpg
 email: jiazhiwong8@gmail.com
 description: "黄嘉志的博客"
